@@ -1,0 +1,5 @@
+name: ArmorUp
+main: net.njsharpe.armorup.ArmorUp
+version: ${version}
+
+api-version: 1.20
